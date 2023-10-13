@@ -10,6 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        // https://repository.tnkad.net:8443/repository/public/
+        maven(url = "https://repository.tnkad.net:8443/repository/public/")
+        maven(url = "https://repository.tnkad.net:8443/repository/tnk_test/")
     }
 }
 
