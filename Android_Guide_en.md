@@ -34,7 +34,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         
-        // 경로를 추가해 주시기 바랍니다.
+        // add this line
         maven { url "https://repository.tnkad.net:8443/repository/public/" }
     }
 }
