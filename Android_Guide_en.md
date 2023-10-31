@@ -169,7 +169,7 @@ TnkRwdPlus(context).setCOPPA(false) // off
 ## 2. Display offerwall
 
 ```diff
-- warning : In test mode, you must register the test device as a development device to display the ad list normally.
+- warning : In test mode, you must register the test device.
 ```
 
 link : [Register test device](https://github.com/tnkfactory/android-sdk-rwd/blob/master/reg_test_device.md)
