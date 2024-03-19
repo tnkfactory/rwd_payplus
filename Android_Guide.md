@@ -46,7 +46,7 @@ include ':app'
 app/build.gradle 파일에 dependency를 추가해주세요.
 ```gradle
 dependencies {
-    implementation 'com.tnkfactory:rwd_payplus:1.0.0'
+    implementation 'com.tnkfactory:rwd_payplus:1.0.6'
 }
 ```
 
