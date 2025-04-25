@@ -43,7 +43,7 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
-    implementation("com.tnkfactory:rwd_payplus:0.0.04")
+    implementation("com.tnkfactory:rwd_payplus:1.1.20")
 
 
 
