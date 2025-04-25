@@ -16,7 +16,7 @@ TnkAd SDK는 Tnk의 광고 네트워크 상에서 광고앱 이나 매체앱을 
 
 ### Update Notice
 * 2025.4.25
-    * v1.1.14
+    * v1.1.19
     * databinding 제거
 
 * 2024.3.19
